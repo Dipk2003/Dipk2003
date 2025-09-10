@@ -6,13 +6,42 @@
 
 ---
 
-## 🛠️ Tech Expertise  
+## ⚡ Tech Arsenal  
 
-- **Core Languages:** Java, C++, JavaScript, Python (Basics)  
-- **Frontend:** Next.js, React.js, HTML5, CSS3  
-- **Backend:** Spring Boot, Node.js  
-- **Databases:** MySQL, Supabase  
-- **Tools & Platforms:** Git, GitHub, Netlify, Vercel  
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+---
+
+## 🏢 Career Timeline  
+
+📌 **2025 (Present)** – Final year **B.Tech (CSE)** student @ *Mangalmay Institute of Engineering & Technology*  
+&nbsp;&nbsp;&nbsp;• Building SaaS solutions, APIs, and full-stack projects.  
+
+💼 **2025** – Internship @ *Prishubh EdTech Pvt. Ltd.*  
+&nbsp;&nbsp;&nbsp;• Worked on backend & web solutions. Gained hands-on experience in real-world software development.  
+
+🎯 **2024–2025** – Projects & Freelance Work  
+&nbsp;&nbsp;&nbsp;• Developed **VC-Web**, a scalable video conferencing platform using Next.js + Stream.  
+&nbsp;&nbsp;&nbsp;• Built **E-commerce (Candles Shop)** with Supabase integration, Razorpay payment gateway, and authentication.  
+
+🛠 **2023–2024** – Skill Building  
+&nbsp;&nbsp;&nbsp;• Strengthened **DSA in Java**.  
+&nbsp;&nbsp;&nbsp;• Learned **Spring Boot, Next.js, Supabase**.  
+&nbsp;&nbsp;&nbsp;• Built real-world apps: Voting System, Garage Billing, ATM Simulator, etc.  
+
+🌱 **Earlier**  
+&nbsp;&nbsp;&nbsp;• Started with C++ basics and competitive programming.  
+&nbsp;&nbsp;&nbsp;• Moved into Java & Full Stack development journey.  
 
 ---
 
